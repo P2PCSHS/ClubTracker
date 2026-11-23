@@ -21,5 +21,6 @@
   "python.defaultInterpreterPath": "${workspaceFolder}/backend/.venv/bin/python",
   "eslint.workingDirectories": ["frontend"],
   "prettier.configPath": "frontend/.prettierrc",
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "python.terminal.useEnvFile": true
 }
